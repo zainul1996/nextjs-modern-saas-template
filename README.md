@@ -60,7 +60,7 @@ pnpm dev
 
 ## 📚 Complete Documentation
 
-Visit our [detailed documentation](https://your-docs-site.com) for:
+Visit our [detailed documentation](https://zainulcain.notion.site/Next-js-Modern-SaaS-Template-Guide-WIP-13fc7a52c3968065bf8fcf45df02561e?pvs=4) for:
 
 - Step-by-step setup guide
 - Development best practices
